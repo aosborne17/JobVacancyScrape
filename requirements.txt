@@ -1,0 +1,4 @@
+wheel
+pandas
+requests
+beautifulsoup4
